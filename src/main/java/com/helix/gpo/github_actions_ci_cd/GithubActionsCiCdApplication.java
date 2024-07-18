@@ -18,12 +18,4 @@ public class GithubActionsCiCdApplication {
 		SpringApplication.run(GithubActionsCiCdApplication.class, args);
 	}
 
-	/*echo "# github-actions-example" >> README.md
-	git init
-	git add README.md
-	git commit -m "first commit"
-	git branch -M main
-	git remote add origin https://github.com/FB6202/github-actions-example.git
-	git push -u origin main*/
-
 }
